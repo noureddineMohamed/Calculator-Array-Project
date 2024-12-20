@@ -258,7 +258,7 @@ class _MyWidgetState extends State<HomePage> {
                       setState(() {});
                     },
                     child: Text(
-                      'Reset',
+                      'RESET',
                       style: TextStyle(
                         color: Colors.black,
                         fontSize: 20,
